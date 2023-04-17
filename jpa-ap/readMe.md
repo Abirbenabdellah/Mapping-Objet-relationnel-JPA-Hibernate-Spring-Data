@@ -6,7 +6,7 @@
 <h6>3) Le ficher application.properties</h6>
 <img src="Captures/c3.png">
 <h6>4) L'interface JPA Repository basée sur Spring data</h6>
-<img src="Captures/c4.png">
+<img src="Captures/c4.png" width="270">
 <h6>5) L'application Jpa pour gérer les patients</h6>
 <li>L'opération d'ajout et de consultation des patients</li>
 <img src="Captures/c5.png" height="250" width="350">
